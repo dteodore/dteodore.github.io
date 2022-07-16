@@ -2,7 +2,6 @@
 title: "UAlberta at LSCDiscovery: Lexical Semantic Change Detection via Word Sense Disambiguation"
 collection: journal
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022-05-26
 venue: 'Proceedings of the 3rd Workshop on Computational Approaches to Historical Language Change'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
