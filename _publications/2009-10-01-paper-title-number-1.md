@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Quantifying Depression-Related Language on Social Media During the COVID-19 Pandemic"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2022-03-30
+venue: 'International Journal of Population Data Science'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Davis, B., McKnight, D. E., Teodorescu, D., Quan-Haase, A., Chunara, R., Fyshe, A. and Lizotte, D. J. (2022) “Quantifying Depression-Related Language on Social Media During the COVID-19 Pandemic”, International Journal of Population Data Science, 5(4). doi: 10.23889/ijpds.v5i4.1716.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
