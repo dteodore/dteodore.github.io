@@ -12,3 +12,5 @@ I am a MSc. Student in Computing Science at the [University of Alberta](https://
 My research interests lie at the crossfields between Natural Language Processing (NLP) and its applications in psychology, computational social science, and emotions in language. I am also interested in semantics, and low-resource NLP.
 
 I completed my BSc. Honors in Computing Science at the University of Alberta, where I had the opportunity to work with [Dr. Alona Fyshe](http://webdocs.cs.ualberta.ca/~alona/) and [Dr. Carrie Demmans Epp](http://www.cdemmansepp.com/) in the [EdTeKLA Research Group](https://spaces.facsci.ualberta.ca/edtekla/) where I explored research projects in various areas of NLP such as machine translation, training classifiers on a dataset of tweets, building language models which were applied to better understand reading processed, and creating a corpus of language resources.
+
+In my spare time I like to spend time outdoors, go hiking, and bake desserts! 
