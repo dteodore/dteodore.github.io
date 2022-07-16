@@ -1,6 +1,6 @@
 ---
 title: "UAlberta at LSCDiscovery: Lexical Semantic Change Detection via Word Sense Disambiguation"
-collection: journal
+collection: workshop
 permalink: /publication/2010-10-01-paper-title-number-2
 date: 2022-05-26
 venue: 'Proceedings of the 3rd Workshop on Computational Approaches to Historical Language Change'
