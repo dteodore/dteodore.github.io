@@ -8,4 +8,8 @@ date: 2020-01-01
 location: "Edmonton, Alberta"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Instruct labs and help answer students’ questions.
+Hold office hours and help sessions.
+Grade labs, assignments, midterms and final exams.
+Enter marks into online grading system.
+Proctor exams.
