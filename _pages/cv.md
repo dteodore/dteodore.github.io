@@ -14,12 +14,16 @@ Education
 * BSc Honors in Computing Science, University of Alberta, 2021
 * MSc in Computing Science, University of Alberta, 2023 (expected)
 
-Work experience
+Research experience
 ======
 * Summer 2022: Student Intern
   * National Research Council Canada, Digital Technologies Research Centre 
   * Working on research projects investigating emotion in language
   * Supervisor: Saif Mohammad
+
+* September 2020-current: Research Assistant
+  * University of Alberta, Canada
+  * Supervisor: Alona Fyshe, Carrie Demmans Epp
 
 Publications
 ======
