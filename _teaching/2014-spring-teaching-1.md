@@ -8,8 +8,8 @@ date: 2020-01-01
 location: "Edmonton, Alberta"
 ---
 
-Instruct labs and help answer students’ questions.
-Hold office hours and help sessions.
-Grade labs, assignments, midterms and final exams.
-Enter marks into online grading system.
-Proctor exams.
+- Instruct labs and help answer students’ questions.
+- Hold office hours and help sessions.
+- Grade labs, assignments, midterms and final exams.
+- Enter marks into online grading system.
+- Proctor exams.
