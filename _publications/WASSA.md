@@ -1,8 +1,8 @@
 ---
-title: "Cree Corpus: A Collection of nêhiyawêwin Resources"
+title: "Utterance Emotion Dynamics in Children’s Poems: Emotional Changes Across Age"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-date: 2022-05-23
-venue: 'Association for Computational Linguistics'
-citation: 'Teodorescu, D., Matalski, J., Lothian, D., Barbosa, D., & Demmans Epp, C. (2022). Cree corpus: A Collection of nêhiyawêwin Resources. Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).https://doi.org/10.18653/v1/2022.acl-long.440'
+permalink: /publication/WASSA
+date: 2023-07-23
+venue: 'Proceedings of the 13th Workshop on Computational Approaches to Subjectivity, Sentiment, & Social Media Analysis'
+citation: 'Teodorescu, D., Fyshe, A., Mohammad, S. (2023). Utterance Emotion Dynamics in Children’s Poems: Emotional Changes Across Age. Proceedings of the 13th Workshop on Computational Approaches to Subjectivity, Sentiment, & Social Media Analysis. https://aclanthology.org/2023.wassa-1.35/'
 ---
