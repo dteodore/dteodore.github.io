@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * BSc Honors in Computing Science, University of Alberta, 2021
-* MSc in Computing Science, University of Alberta, 2023 (expected)
+* MSc in Computing Science, University of Alberta, 2023
 
 Research experience
 ======
@@ -21,7 +21,7 @@ Research experience
   * Working on research projects investigating emotion in language
   * Supervisor: Saif Mohammad
 
-* September 2020-current: Research Assistant
+* September 2020 - Aug 2023: Research Assistant
   * University of Alberta, Canada
   * Supervisor: Alona Fyshe, Carrie Demmans Epp
 
