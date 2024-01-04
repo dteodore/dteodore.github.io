@@ -17,11 +17,7 @@ author_profile: true
 
 ## Conference Papers
 
-Cree Corpus: A Collection of nêhiyawêwin Resources
-
-venue: 'Association for Computational Linguistics'
-
-**Teodorescu, D.**, Matalski, J., Lothian, D., Barbosa, D., & Demmans Epp, C. (2022). Cree corpus: A Collection of nêhiyawêwin Resources. Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).https://doi.org/10.18653/v1/2022.acl-long.440
+-item [Cree Corpus: A Collection of nêhiyawêwin Resources](https://aclanthology.org/2022.acl-long.440/). **Teodorescu, D.**, Matalski, J., Lothian, D., Barbosa, D., & Demmans Epp, C. In *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022)*, Dublin, Ireland.
 
 ## Journal Papers
 
