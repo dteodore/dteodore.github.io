@@ -17,6 +17,10 @@ author_profile: true
 
 ## Conference Papers
 
+- [Language and Mental Health: Measures of Emotion Dynamics from Text as Linguistic Biosocial Markers](https://aclanthology.org/2023.emnlp-main.188/). **Teodorescu, D.**, Cheng, T., Fyshe, A., Mohammad, S. In *Proceedings of the Empirical Methods on Natural Language Processing (EMNLP 2023 Main)*, Singapore.
+
+- [Evaluating Emotion Arcs Across Languages: Bridging the Global Divide in Sentiment Analysis](https://aclanthology.org/2023.findings-emnlp.271/). **Teodorescu, D.**, Mohammad, S. In *Proceedings of the Empirical Methods on Natural Language Processing (EMNLP 2023 Findings)*, Singapore.
+
 - [Cree Corpus: A Collection of nêhiyawêwin Resources](https://aclanthology.org/2022.acl-long.440/). **Teodorescu, D.**, Matalski, J., Lothian, D., Barbosa, D., & Demmans Epp, C. In *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022)*, Dublin, Ireland.
 
 ## Journal Papers
