@@ -25,22 +25,10 @@ author_profile: true
 
 ## Journal Papers
 
-Quantifying Depression-Related Language on Social Media During the COVID-19 Pandemic
-
-venue: 'International Journal of Population Data Science'
-
-Davis, B., McKnight, D. E., **Teodorescu, D.**, Quan-Haase, A., Chunara, R., Fyshe, A. and Lizotte, D. J. (2022) “Quantifying Depression-Related Language on Social Media During the COVID-19 Pandemic”, International Journal of Population Data Science, 5(4). doi: 10.23889/ijpds.v5i4.1716.
+- [Quantifying Depression-Related Language on Social Media During the COVID-19 Pandemic](https://ijpds.org/article/view/1716). (2022). Davis, B., McKnight, D. E., **Teodorescu, D.**, Quan-Haase, A., Chunara, R., Fyshe, A. and Lizotte, D. J. In *International Journal of Population Data Science*.
 
 ## Workshop Papers
 
-Utterance Emotion Dynamics in Children’s Poems: Emotional Changes Across Age
+- [Utterance Emotion Dynamics in Children’s Poems: Emotional Changes Across Age](https://aclanthology.org/2023.wassa-1.35/). **Teodorescu, D.**, Fyshe, A., Mohammad, S. In *Proceedings of the 13th Workshop on Computational Approaches to Subjectivity, Sentiment, & Social Media Analysis (WASSA)*, July 2023, Toronto, Canada.
 
-venue: 'Proceedings of the 13th Workshop on Computational Approaches to Subjectivity, Sentiment, & Social Media Analysis'
-
-**Teodorescu, D.**, Fyshe, A., Mohammad, S. (2023). Utterance Emotion Dynamics in Children’s Poems: Emotional Changes Across Age. Proceedings of the 13th Workshop on Computational Approaches to Subjectivity, Sentiment, & Social Media Analysis. DOI: 10.18653/v1/2023.wassa-1.35
-
-UAlberta at LSCDiscovery: Lexical Semantic Change Detection via Word Sense Disambiguation
-
-venue: 'Proceedings of the 3rd Workshop on Computational Approaches to Historical Language Change'
-
-**Teodorescu, D.**, von der Ohe, S., & Kondrak, G. (2022). UAlberta at LSCDiscovery: Lexical Semantic Change Detection via Word Sense Disambiguation. Proceedings of the 3rd Workshop on Computational Approaches to Historical Language Change. https://doi.org/10.18653/v1/2022.lchange-1.19
+- [UAlberta at LSCDiscovery: Lexical Semantic Change Detection via Word Sense Disambiguation](https://aclanthology.org/2022.lchange-1.19/).**Teodorescu, D.**, von der Ohe, S., & Kondrak, G. In *Proceedings of the 3rd Workshop on Computational Approaches to Historical Language Change (LChange’22)*, Dublin, Ireland.
