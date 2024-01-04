@@ -17,7 +17,7 @@ author_profile: true
 
 ## Conference Papers
 
--item [Cree Corpus: A Collection of nêhiyawêwin Resources](https://aclanthology.org/2022.acl-long.440/). **Teodorescu, D.**, Matalski, J., Lothian, D., Barbosa, D., & Demmans Epp, C. In *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022)*, Dublin, Ireland.
+- [Cree Corpus: A Collection of nêhiyawêwin Resources](https://aclanthology.org/2022.acl-long.440/). **Teodorescu, D.**, Matalski, J., Lothian, D., Barbosa, D., & Demmans Epp, C. In *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022)*, Dublin, Ireland.
 
 ## Journal Papers
 
