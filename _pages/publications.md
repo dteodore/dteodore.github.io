@@ -31,4 +31,4 @@ author_profile: true
 
 - [Utterance Emotion Dynamics in Children’s Poems: Emotional Changes Across Age](https://aclanthology.org/2023.wassa-1.35/). **Teodorescu, D.**, Fyshe, A., Mohammad, S. In *Proceedings of the 13th Workshop on Computational Approaches to Subjectivity, Sentiment, & Social Media Analysis (WASSA)*, July 2023, Toronto, Canada.
 
-- [UAlberta at LSCDiscovery: Lexical Semantic Change Detection via Word Sense Disambiguation](https://aclanthology.org/2022.lchange-1.19/).**Teodorescu, D.**, von der Ohe, S., & Kondrak, G. In *Proceedings of the 3rd Workshop on Computational Approaches to Historical Language Change (LChange’22)*, Dublin, Ireland.
+- [UAlberta at LSCDiscovery: Lexical Semantic Change Detection via Word Sense Disambiguation](https://aclanthology.org/2022.lchange-1.19/). **Teodorescu, D.**, von der Ohe, S., & Kondrak, G. In *Proceedings of the 3rd Workshop on Computational Approaches to Historical Language Change (LChange’22)*, Dublin, Ireland.
