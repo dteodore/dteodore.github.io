@@ -1,7 +1,6 @@
 ---
-layout: archive
-title: "Publications"
 permalink: /publications/
+title: "Publications"
 author_profile: true
 ---
 
@@ -15,7 +14,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-# Publications
 
 ## Conference Papers
 
