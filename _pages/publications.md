@@ -16,6 +16,7 @@ author_profile: true
 
 
 ## Conference Papers
+- [Emotion Granularity from Text: An Aggregate-Level Indicator of Mental Health](https://arxiv.org/pdf/2403.02281). Vishnubhotla, K., **Teodorescu, D.**, Feldman, M., Lindquist, K., Mohammad, S. In *Proceedings of the Empirical Methods on Natural Language Processing (EMNLP 2024 Main)*, Miami, Florida.
 
 - [Language and Mental Health: Measures of Emotion Dynamics from Text as Linguistic Biosocial Markers](https://aclanthology.org/2023.emnlp-main.188/). **Teodorescu, D.**, Cheng, T., Fyshe, A., Mohammad, S. In *Proceedings of the Empirical Methods on Natural Language Processing (EMNLP 2023 Main)*, Singapore.
 
