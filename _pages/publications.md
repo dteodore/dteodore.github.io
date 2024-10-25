@@ -26,6 +26,8 @@ author_profile: true
 
 ## Journal Papers
 
+- [Tracking the dynamic word-by-word incremental reading through multi-measures]. (2024). Lin, C., Oralova, G., Perfetti, C., Demmans Epp, C., Fyshe, A., Clark, S., **Teodorescu, D.**, Helfrich, M. J. In *Journal of Experimental Psychology: Learning, Memory, and Cognition*.
+
 - [Quantifying Depression-Related Language on Social Media During the COVID-19 Pandemic](https://ijpds.org/article/view/1716). (2022). Davis, B., McKnight, D. E., **Teodorescu, D.**, Quan-Haase, A., Chunara, R., Fyshe, A. and Lizotte, D. J. In *International Journal of Population Data Science*.
 
 ## Workshop Papers
