@@ -16,6 +16,8 @@ author_profile: true
 
 
 ## Conference Papers
+- Not All Models Are Created Equal: Differences in which Surprisal Predicts Reading Time by Speaker First Language. Clark S., **Teodorescu, D.**, Lin, C., Oralova, G., Perfetti, C., Fyshe, A., Demmans Epp, C. (to appear) In *Proceedings of the 2025 Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL 2025 Main)*, Albuquerque, New Mexico.
+
 - [Emotion Granularity from Text: An Aggregate-Level Indicator of Mental Health](https://arxiv.org/pdf/2403.02281). Vishnubhotla, K., **Teodorescu, D.**, Feldman, M., Lindquist, K., Mohammad, S. In *Proceedings of the Empirical Methods on Natural Language Processing (EMNLP 2024 Main)*, Miami, Florida.
 
 - [Language and Mental Health: Measures of Emotion Dynamics from Text as Linguistic Biosocial Markers](https://aclanthology.org/2023.emnlp-main.188/). **Teodorescu, D.**, Cheng, T., Fyshe, A., Mohammad, S. In *Proceedings of the Empirical Methods on Natural Language Processing (EMNLP 2023 Main)*, Singapore.
