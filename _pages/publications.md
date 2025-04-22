@@ -33,7 +33,7 @@ author_profile: true
 - [Quantifying Depression-Related Language on Social Media During the COVID-19 Pandemic](https://ijpds.org/article/view/1716). (2022). Davis, B., McKnight, D. E., **Teodorescu, D.**, Quan-Haase, A., Chunara, R., Fyshe, A. and Lizotte, D. J. In *International Journal of Population Data Science*.
 
 ## Workshop Papers
-- [UAlberta at SemEval-2025 Task 2: Prompting and Ensembling for Entity-Aware Translation](). Shi, N., Basil, D., Hauer, B., Nawal, N., Riley, J., **Teodorescu, D.**, Zhang, J., and Kondrak, G. (To appear) In *Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval-2025).)*, July 2025, Vienna, Austria.
+- [UAlberta at SemEval-2025 Task 2: Prompting and Ensembling for Entity-Aware Translation](). Shi, N., Basil, D., Hauer, B., Nawal, N., Riley, J., **Teodorescu, D.**, Zhang, J., and Kondrak, G. (To appear) In *Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval-2025).*, July 2025, Vienna, Austria.
 
 - [Utterance Emotion Dynamics in Children’s Poems: Emotional Changes Across Age](https://aclanthology.org/2023.wassa-1.35/). **Teodorescu, D.**, Fyshe, A., Mohammad, S. In *Proceedings of the 13th Workshop on Computational Approaches to Subjectivity, Sentiment, & Social Media Analysis (WASSA)*, July 2023, Toronto, Canada.
 
